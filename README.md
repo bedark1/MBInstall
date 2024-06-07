@@ -8,7 +8,6 @@ This PowerShell script allows you to install Malwarebytes with a simple menu int
 ## How to Use
 
 1. Open PowerShell with administrative privileges.
-2. Run the following command to download and execute the script:
-   iex (irm "https://raw.githubusercontent.com/bedark1/MBInstall/main/MBInstall.ps1")
+2. Run the following command to download and execute the script: iex (irm "https://raw.githubusercontent.com/bedark1/MBInstall/main/MBInstall.ps1")
 
 
