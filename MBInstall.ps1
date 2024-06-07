@@ -1,4 +1,4 @@
-# install-malwarebytes.ps1
+# MBInstall.ps1
 
 # Function to display the menu
 function Show-Menu {
